@@ -1,4 +1,4 @@
-# git-practice0
+ git-practice0
 Abstract: This project is to practice git.
 [See Demo] (https://www.google.com/)
 
@@ -16,6 +16,9 @@ Abstract: This project is to practice git.
 $ git clone {repo address}
 $ cd {repo name}
 $ vi REAMDE.md
+'''
+
+Now, I am doing 
 
 ## How to start
 
@@ -24,8 +27,6 @@ def hello(name):
 	print(f'Hello, {name}')
 
 hello('John Doe')
-
+'''
 ## Features
-
-
 
