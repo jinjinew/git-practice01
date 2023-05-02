@@ -1,3 +1,4 @@
+
 # Created by https://www.toptal.com/developers/gitignore/api/macos,python,jupyternotebooks,pycharm,flask,vim,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,python,jupyternotebooks,pycharm,flask,vim,visualstudiocode
 
@@ -15,7 +16,11 @@ __pycache__/
 
 # C extensions
 *.so
+## Custom
 
+keyfile.*
+*.go
+hidden/**
 # Distribution / packaging
 .Python
 build/
